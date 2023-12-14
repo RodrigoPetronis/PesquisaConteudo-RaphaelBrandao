@@ -10,4 +10,4 @@ Essa ferramenta foi desenvolvida por Diego Mendes Moreno e Personalizada por Rod
 
 Esse site é utilizado para facilitar a localização de conteúdo nas mídias sociais de Raphael Brandão (Personal).
 
- Este é o Link feito Deploy utilizando vercel.app     pesquisa-conteudo-raphael-brandao.vercel.app
+ Este é o Link feito Deploy utilizando vercel.app  ->  https://pesquisa-conteudo-raphael-brandao.vercel.app/
