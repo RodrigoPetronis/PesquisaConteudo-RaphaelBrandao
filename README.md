@@ -9,3 +9,5 @@ Esse site pega de toda a [base de dados de conteúdo](https://docs.google.com/sp
 Essa ferramenta foi desenvolvida por Diego Mendes Moreno e Personalizada por Rodrigo Petronis.
 
 Esse site é utilizado para facilitar a localização de conteúdo nas mídias sociais de Raphael Brandão (Personal).
+
+ Este é o Link feito Deploy utilizando vercel.app     pesquisa-conteudo-raphael-brandao.vercel.app
