@@ -85,7 +85,7 @@ function filterByKeyword(jsonData, keyword) {
 
 function loadSpreadSheet() {
     //Precisa organizar os conteúdos em uma tabela no googlesheets para pegar os links.
-    const spreadsheetId = '1tYO0Ti-rkJqLsucV3dKfQJw-V5xu4-8tYgVadur1hEw';
+    const spreadsheetId = '1_uigqqs_bp-g230Fe8B-i10IqZhbL8G7UQvTmzCNOHM';
                         
     const sheets = ['Infográficos', 'Vídeos YouTube'];
 
